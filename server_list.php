@@ -2,6 +2,7 @@
 
 include('core/init.inc.php');
 
+
 ?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xmthl1-strict.dtd">
